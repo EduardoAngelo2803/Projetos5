@@ -1,4 +1,4 @@
-# Projetos5
+# Projetos 5
 Projeto ProDataViz para a SafeCare: Transformando Dados em Insights Estratégicos
 
 Em um cenário empresarial cada vez mais dinâmico, a capacidade de compreender e interpretar dados é crucial para o sucesso organizacional. Nesse contexto, surge o projeto ProDataViz, uma iniciativa voltada para a análise e visualização de dados da renomada empresa SafeCare. O objetivo central é potencializar a capacidade da SafeCare em tomar decisões fundamentadas e estratégicas por meio da interpretação visual de seus dados corporativos.
